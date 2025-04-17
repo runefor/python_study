@@ -3,6 +3,16 @@
 다양한 python 공부 내역
 
 
+### decorator_study
+
+데코레이터 다양한 예제들 만들어 보기
+
+
+### processing_threading_study
+
+프로세싱이랑 스레딩 파이썬에서 예제 만들어 보기기
+
+
 ### numpy_study
 
 numpy 라이브러리 한번 정리해보기
@@ -42,7 +52,7 @@ Tkinter 라이브러리를 이용해서 그래픽 구현하기~
 몇개는 써 봤는데, 몇개는 아예 모르는 거네?
 
 - base64
-- txtwrap
-- re
+- textwrap
+- re -> 생각날 때마다 정리하는 게 좋을 듯? ( 넘 많아, 그리고 맨날 gpt한테 부탁할 것 같음 )
 - collections
 - gensim
